@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T10:07:02.973Z" agent="5.0 (Windows)" version="13.8.0" etag="NNXwje5F8fbNoM01OTsi" type="github"><diagram id="-gHGDXtgPAfWVPjHdKv4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-18T10:33:00.564Z" agent="5.0 (Windows)" etag="N4TYwUgSS_nsrk7yyfRY" version="13.8.0" type="github">
+  <diagram id="-gHGDXtgPAfWVPjHdKv4" name="Page-1">
+    <mxGraphModel dx="914" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-25" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZCH_loQ8aumQxmSB3bJd-1" target="ZCH_loQ8aumQxmSB3bJd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="460" as="sourcePoint" />
+            <mxPoint x="340" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="300" y="368" width="70" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="550" y="368" width="80" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-30" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.569;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZCH_loQ8aumQxmSB3bJd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="580" as="sourcePoint" />
+            <mxPoint x="701" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="580" />
+              <mxPoint x="727" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-33" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.478;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZCH_loQ8aumQxmSB3bJd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="441" as="sourcePoint" />
+            <mxPoint x="510" y="582.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="451" />
+              <mxPoint x="455" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-1" value="d1:Doctor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-2" value="Id=001&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-1">
+          <mxGeometry y="26" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-3" value="Name=John" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-1">
+          <mxGeometry y="52" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-4" value="Phone number=7896213453&#xa;&#xa;Email= john@gmial.com&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-1">
+          <mxGeometry y="78" width="170" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-5" value="p1:Patient" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-6" value="Name= joseph&#xa;&#xa;Phone number=8347832922&#xa;&#xa;Age= 22&#xa;&#xa;Email=joseph@gmail.com&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-5">
+          <mxGeometry y="26" width="180" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-9" value="r1:Receptionist" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-10" value="Id=701&#xa;&#xa;Name Sunita&#xa;&#xa;Phone number=8347233922&#xa;&#xa;Email=Sunita@gmail.com&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-9">
+          <mxGeometry y="26" width="170" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-13" value="n1:Nurse" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-14" value="Id=786&#xa;&#xa;Name=kirpa&#xa;&#xa;Phone number=9728187334&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-13">
+          <mxGeometry y="26" width="170" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-17" value="b1:Bill" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCH_loQ8aumQxmSB3bJd-18" value="Id=5674&#xa;Name=joseph&#xa;Bill=7600 Rs&#xa;Tax=456 Rs&#xa;Phone number=8347832922&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZCH_loQ8aumQxmSB3bJd-17">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
